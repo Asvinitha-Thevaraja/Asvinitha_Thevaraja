@@ -1,5 +1,9 @@
 # Asvinitha Thevaraja | Personal Portfolio
 
+<p align="center">
+  <img src="assets/og-preview.png" alt="Asvinitha Thevaraja Portfolio Preview" width="100%">
+</p>
+
 Welcome to my personal portfolio! This website showcases my background, skills, projects, and interests as an Information Systems undergraduate passionate about Software Engineering and technology.
 
 ## About Me
@@ -14,26 +18,6 @@ I am an Information Systems undergraduate at Sabaragamuwa University of Sri Lank
 - Featured Projects
 - Education
 - Contact Information
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Featured Projects
-
-- Ice Cream Shop Website
-- Threadify
-- Weather Dashboard
-
-## Getting Started
-
-To run this project locally:
-
-1. Clone this repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in your web browser.
 
 ## Connect With Me
 
