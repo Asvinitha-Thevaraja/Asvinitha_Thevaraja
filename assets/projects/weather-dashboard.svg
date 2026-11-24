@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="Segoe UI, Arial, sans-serif">
+  <!-- DUMMY IMAGE: replace with a real screenshot of the app -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <text x="70" y="90" font-size="34" font-weight="700" fill="#fff">SkyCast</text>
+  <rect x="980" y="45" width="560" height="60" rx="30" fill="#ffffff" fill-opacity=".18"/>
+  <text x="1015" y="84" font-size="24" fill="#e0e7ff">🔍  Colombo, Sri Lanka</text>
+  <rect x="70" y="150" width="800" height="430" rx="28" fill="#ffffff" fill-opacity=".14"/>
+  <text x="120" y="220" font-size="30" fill="#e0e7ff">Today · Colombo</text>
+  <circle cx="250" cy="370" r="85" fill="#fcd34d"/>
+  <ellipse cx="330" cy="420" rx="110" ry="55" fill="#ffffff"/><ellipse cx="250" cy="430" rx="80" ry="45" fill="#ffffff"/>
+  <text x="480" y="410" font-size="150" font-weight="700" fill="#fff">29°</text>
+  <text x="485" y="470" font-size="30" fill="#e0e7ff">Partly cloudy</text>
+  <text x="120" y="545" font-size="24" fill="#e0e7ff">Humidity 74%      Wind 14 km/h      UV 6</text>
+  <rect x="900" y="150" width="640" height="430" rx="28" fill="#ffffff" fill-opacity=".14"/>
+  <text x="940" y="215" font-size="28" font-weight="600" fill="#fff">Temperature today</text>
+  <polyline points="940,470 1030,430 1120,380 1210,340 1300,360 1390,410 1480,450" fill="none" stroke="#fcd34d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-size="20" fill="#e0e7ff"><text x="930" y="540">6am</text><text x="1110" y="540">12pm</text><text x="1290" y="540">6pm</text><text x="1450" y="540">12am</text></g>
+  <g font-size="26" fill="#fff" text-anchor="middle">
+    <rect x="70" y="620" width="270" height="320" rx="24" fill="#ffffff" fill-opacity=".14"/><text x="205" y="680">Mon</text><circle cx="205" cy="770" r="45" fill="#fcd34d"/><text x="205" y="890" font-size="40" font-weight="700">30°</text>
+    <rect x="365" y="620" width="270" height="320" rx="24" fill="#ffffff" fill-opacity=".14"/><text x="500" y="680">Tue</text><ellipse cx="500" cy="775" rx="65" ry="35" fill="#fff"/><text x="500" y="890" font-size="40" font-weight="700">27°</text>
+    <rect x="660" y="620" width="270" height="320" rx="24" fill="#ffffff" fill-opacity=".14"/><text x="795" y="680">Wed</text><ellipse cx="795" cy="760" rx="65" ry="35" fill="#cbd5e1"/><g stroke="#93c5fd" stroke-width="6" stroke-linecap="round"><line x1="770" y1="805" x2="760" y2="830"/><line x1="800" y1="805" x2="790" y2="830"/><line x1="830" y1="805" x2="820" y2="830"/></g><text x="795" y="890" font-size="40" font-weight="700">25°</text>
+    <rect x="955" y="620" width="270" height="320" rx="24" fill="#ffffff" fill-opacity=".14"/><text x="1090" y="680">Thu</text><circle cx="1070" cy="760" r="38" fill="#fcd34d"/><ellipse cx="1110" cy="790" rx="55" ry="28" fill="#fff"/><text x="1090" y="890" font-size="40" font-weight="700">28°</text>
+    <rect x="1250" y="620" width="290" height="320" rx="24" fill="#ffffff" fill-opacity=".14"/><text x="1395" y="680">Fri</text><circle cx="1395" cy="770" r="45" fill="#fcd34d"/><text x="1395" y="890" font-size="40" font-weight="700">31°</text>
+  </g>
+</svg>

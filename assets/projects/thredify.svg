@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="Segoe UI, Arial, sans-serif">
+  <!-- PLACEHOLDER IMAGE: replace with a real screenshot (save as thredify.png) -->
+  <defs>
+    <linearGradient id="stage" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1f3f9"/><stop offset="1" stop-color="#e3e8f4"/></linearGradient>
+    <linearGradient id="tee" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b6fe0"/><stop offset="1" stop-color="#2a4fb0"/></linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#ffffff"/>
+
+  <!-- nav -->
+  <rect width="1600" height="86" fill="#111827"/>
+  <text x="56" y="56" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="1">THRED<tspan fill="#7aa2ff">IFY</tspan></text>
+  <g font-size="21" fill="#cbd5e1"><text x="560" y="54">Shop</text><text x="650" y="54">Men</text><text x="735" y="54">Women</text><text x="850" y="54" fill="#ffffff" font-weight="700">Customize</text></g>
+  <rect x="1240" y="24" width="210" height="40" rx="20" fill="#1f2937"/><text x="1262" y="51" font-size="18" fill="#94a3b8">Search…</text>
+  <circle cx="1510" cy="44" r="22" fill="#3b6fe0"/><text x="1500" y="51" font-size="20" font-weight="700" fill="#fff">2</text>
+
+  <!-- left: filters -->
+  <rect x="40" y="116" width="250" height="844" rx="18" fill="#f6f7fb"/>
+  <text x="66" y="160" font-size="24" font-weight="700" fill="#111827">Filters</text>
+  <g font-size="19" fill="#374151">
+    <text x="66" y="210">Category</text>
+    <rect x="66" y="226" width="20" height="20" rx="5" fill="#3b6fe0"/><text x="96" y="243">T-Shirts</text>
+    <rect x="66" y="260" width="20" height="20" rx="5" fill="#d1d5db"/><text x="96" y="277">Hoodies</text>
+    <rect x="66" y="294" width="20" height="20" rx="5" fill="#d1d5db"/><text x="96" y="311">Caps</text>
+    <text x="66" y="370">Size</text>
+    <rect x="66" y="386" width="44" height="38" rx="8" fill="#fff" stroke="#d1d5db"/><text x="80" y="411">S</text>
+    <rect x="118" y="386" width="44" height="38" rx="8" fill="#111827"/><text x="130" y="411" fill="#fff">M</text>
+    <rect x="170" y="386" width="44" height="38" rx="8" fill="#fff" stroke="#d1d5db"/><text x="184" y="411">L</text>
+    <rect x="222" y="386" width="50" height="38" rx="8" fill="#fff" stroke="#d1d5db"/><text x="232" y="411">XL</text>
+    <text x="66" y="480">Price</text>
+    <rect x="66" y="500" width="200" height="6" rx="3" fill="#d1d5db"/><rect x="66" y="500" width="130" height="6" rx="3" fill="#3b6fe0"/><circle cx="196" cy="503" r="11" fill="#fff" stroke="#3b6fe0" stroke-width="4"/>
+    <text x="66" y="545" fill="#6b7280">$10 – $45</text>
+  </g>
+
+  <!-- center: 3D designer stage -->
+  <rect x="320" y="116" width="760" height="560" rx="22" fill="url(#stage)"/>
+  <text x="350" y="160" font-size="24" font-weight="700" fill="#111827">Design your T-shirt</text>
+  <rect x="890" y="134" width="70" height="36" rx="18" fill="#111827"/><text x="908" y="158" font-size="17" font-weight="700" fill="#fff">2D</text>
+  <rect x="968" y="134" width="80" height="36" rx="18" fill="#3b6fe0"/><text x="988" y="158" font-size="17" font-weight="700" fill="#fff">3D</text>
+  <ellipse cx="700" cy="630" rx="210" ry="22" fill="#cbd5e1" opacity=".7"/>
+  <!-- t-shirt -->
+  <path d="M590 220 L520 250 L455 330 L520 380 L560 345 L560 610 L840 610 L840 345 L880 380 L945 330 L880 250 L810 220 Q780 262 700 262 Q620 262 590 220 Z" fill="url(#tee)"/>
+  <path d="M590 220 Q620 262 700 262 Q780 262 810 220 Q780 245 700 245 Q620 245 590 220 Z" fill="#1d3f9a"/>
+  <!-- custom print -->
+  <circle cx="700" cy="400" r="70" fill="#ffffff" opacity=".95"/>
+  <text x="700" y="392" font-size="30" font-weight="800" fill="#3b6fe0" text-anchor="middle">THRED</text>
+  <text x="700" y="428" font-size="22" font-weight="700" fill="#111827" text-anchor="middle">IFY</text>
+  <rect x="615" y="315" width="170" height="170" fill="none" stroke="#7aa2ff" stroke-width="3" stroke-dasharray="10 8"/>
+  <!-- rotate hint -->
+  <path d="M1000 560 a60 30 0 1 1 -40 -25" fill="none" stroke="#94a3b8" stroke-width="4"/><polygon points="955,525 975,540 950,548" fill="#94a3b8"/>
+
+  <!-- right: tools + cart -->
+  <rect x="1110" y="116" width="450" height="560" rx="22" fill="#f6f7fb"/>
+  <text x="1140" y="162" font-size="24" font-weight="700" fill="#111827">Customize</text>
+  <text x="1140" y="210" font-size="19" fill="#374151">Colour</text>
+  <circle cx="1160" cy="248" r="20" fill="#3b6fe0" stroke="#111827" stroke-width="4"/><circle cx="1212" cy="248" r="20" fill="#111827"/><circle cx="1264" cy="248" r="20" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/><circle cx="1316" cy="248" r="20" fill="#e2557a"/><circle cx="1368" cy="248" r="20" fill="#22a06b"/><circle cx="1420" cy="248" r="20" fill="#f5b83d"/>
+  <text x="1140" y="315" font-size="19" fill="#374151">Add text</text>
+  <rect x="1140" y="330" width="390" height="50" rx="12" fill="#ffffff" stroke="#d1d5db"/><text x="1160" y="362" font-size="19" fill="#111827">THREDIFY</text>
+  <text x="1140" y="425" font-size="19" fill="#374151">Upload design</text>
+  <rect x="1140" y="440" width="390" height="80" rx="12" fill="#ffffff" stroke="#9db8f5" stroke-dasharray="8 6"/><text x="1240" y="488" font-size="18" fill="#3b6fe0">⬆  Drop your image here</text>
+  <text x="1140" y="575" font-size="26" font-weight="800" fill="#111827">$24.99</text>
+  <rect x="1300" y="545" width="230" height="56" rx="14" fill="#3b6fe0"/><text x="1340" y="581" font-size="20" font-weight="700" fill="#fff">Add to cart</text>
+
+  <!-- bottom: catalog -->
+  <text x="320" y="725" font-size="24" font-weight="700" fill="#111827">Popular picks</text>
+  <g font-size="18">
+    <rect x="320" y="745" width="290" height="215" rx="16" fill="#f6f7fb"/>
+    <path d="M430 770 L400 783 L378 815 L402 833 L415 820 L415 900 L505 900 L505 820 L518 833 L542 815 L520 783 L490 770 Q480 787 460 787 Q440 787 430 770 Z" fill="#111827"/>
+    <text x="340" y="935" fill="#111827" font-weight="600">Classic Black Tee</text><text x="545" y="935" fill="#3b6fe0" font-weight="700">$18</text>
+    <rect x="630" y="745" width="290" height="215" rx="16" fill="#f6f7fb"/>
+    <path d="M740 770 L710 783 L688 815 L712 833 L725 820 L725 900 L815 900 L815 820 L828 833 L852 815 L830 783 L800 770 Q790 787 770 787 Q750 787 740 770 Z" fill="#e2557a"/>
+    <text x="650" y="935" fill="#111827" font-weight="600">Rose Graphic Tee</text><text x="855" y="935" fill="#3b6fe0" font-weight="700">$22</text>
+    <rect x="940" y="745" width="290" height="215" rx="16" fill="#f6f7fb"/>
+    <path d="M1050 770 L1020 783 L998 815 L1022 833 L1035 820 L1035 900 L1125 900 L1125 820 L1138 833 L1162 815 L1140 783 L1110 770 Q1100 787 1080 787 Q1060 787 1050 770 Z" fill="#22a06b"/>
+    <text x="960" y="935" fill="#111827" font-weight="600">Forest Basic Tee</text><text x="1165" y="935" fill="#3b6fe0" font-weight="700">$16</text>
+    <rect x="1250" y="745" width="310" height="215" rx="16" fill="#f6f7fb"/>
+    <path d="M1370 770 L1340 783 L1318 815 L1342 833 L1355 820 L1355 900 L1445 900 L1445 820 L1458 833 L1482 815 L1460 783 L1430 770 Q1420 787 1400 787 Q1380 787 1370 770 Z" fill="#f5b83d"/>
+    <text x="1270" y="935" fill="#111827" font-weight="600">Sunny Oversized Tee</text><text x="1500" y="935" fill="#3b6fe0" font-weight="700">$24</text>
+  </g>
+</svg>

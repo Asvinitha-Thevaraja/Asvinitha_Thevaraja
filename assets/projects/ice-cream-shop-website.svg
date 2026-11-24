@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="Segoe UI, Arial, sans-serif">
+  <!-- PLACEHOLDER IMAGE: replace with a real screenshot (save as ice-cream-shop-website.png) -->
+  <rect width="1600" height="1000" fill="#fff7f0"/>
+  <!-- nav -->
+  <rect width="1600" height="90" fill="#ffffff"/>
+  <text x="60" y="58" font-size="34" font-weight="800" fill="#e2557a">🍦 Scoops &amp; Smiles</text>
+  <g font-size="22" fill="#6b4a3a"><text x="980" y="56">Home</text><text x="1080" y="56">Menu</text><text x="1180" y="56">About</text><text x="1290" y="56">Contact</text></g>
+  <rect x="1410" y="28" width="140" height="44" rx="22" fill="#e2557a"/><text x="1440" y="57" font-size="20" font-weight="700" fill="#fff">Order</text>
+  <!-- hero -->
+  <rect x="60" y="120" width="1480" height="330" rx="30" fill="#ffd6e0"/>
+  <text x="120" y="230" font-size="60" font-weight="800" fill="#7a2e45">Happiness in</text>
+  <text x="120" y="300" font-size="60" font-weight="800" fill="#e2557a">every scoop</text>
+  <text x="120" y="355" font-size="26" fill="#7a4b58">Handmade ice cream with fresh, natural flavours</text>
+  <rect x="120" y="380" width="200" height="50" rx="25" fill="#7a2e45"/><text x="160" y="413" font-size="22" font-weight="700" fill="#fff">View menu</text>
+  <!-- big cone -->
+  <polygon points="1210,420 1280,250 1140,250" fill="#e8b06a"/>
+  <g stroke="#c98b45" stroke-width="5"><line x1="1160" y1="270" x2="1255" y2="330"/><line x1="1150" y1="300" x2="1240" y2="370"/><line x1="1260" y1="270" x2="1175" y2="335"/></g>
+  <circle cx="1210" cy="230" r="72" fill="#ff9bb5"/><circle cx="1155" cy="200" r="52" fill="#fff2c6"/><circle cx="1268" cy="195" r="50" fill="#8fd6c1"/><circle cx="1215" cy="150" r="30" fill="#e2557a"/>
+  <!-- menu -->
+  <text x="60" y="520" font-size="38" font-weight="800" fill="#7a2e45">Our Menu</text>
+  <g font-size="22">
+    <rect x="60" y="550" width="350" height="400" rx="22" fill="#ffffff"/><circle cx="235" cy="660" r="80" fill="#ff9bb5"/><polygon points="235,800 280,700 190,700" fill="#e8b06a"/>
+    <text x="90" y="860" font-weight="700" fill="#3d2a24">Strawberry Swirl</text><text x="90" y="895" font-size="18" fill="#8a7068">Fresh strawberries &amp; cream</text><text x="320" y="860" font-weight="800" fill="#e2557a">$3.50</text>
+    <rect x="436" y="550" width="350" height="400" rx="22" fill="#ffffff"/><circle cx="611" cy="660" r="80" fill="#8b5a3c"/><polygon points="611,800 656,700 566,700" fill="#e8b06a"/>
+    <text x="466" y="860" font-weight="700" fill="#3d2a24">Choco Fudge</text><text x="466" y="895" font-size="18" fill="#8a7068">Rich Belgian chocolate</text><text x="696" y="860" font-weight="800" fill="#e2557a">$3.80</text>
+    <rect x="812" y="550" width="350" height="400" rx="22" fill="#ffffff"/><circle cx="987" cy="660" r="80" fill="#8fd6c1"/><polygon points="987,800 1032,700 942,700" fill="#e8b06a"/>
+    <text x="842" y="860" font-weight="700" fill="#3d2a24">Mint Chip</text><text x="842" y="895" font-size="18" fill="#8a7068">Cool mint with chocolate</text><text x="1072" y="860" font-weight="800" fill="#e2557a">$3.50</text>
+    <rect x="1188" y="550" width="352" height="400" rx="22" fill="#ffffff"/><circle cx="1364" cy="660" r="80" fill="#fff2c6"/><polygon points="1364,800 1409,700 1319,700" fill="#e8b06a"/>
+    <text x="1218" y="860" font-weight="700" fill="#3d2a24">Classic Vanilla</text><text x="1218" y="895" font-size="18" fill="#8a7068">Smooth Madagascar vanilla</text><text x="1448" y="860" font-weight="800" fill="#e2557a">$3.20</text>
+  </g>
+</svg>
