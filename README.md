@@ -22,7 +22,7 @@ I am an Information Systems undergraduate at Sabaragamuwa University of Sri Lank
 ## Connect With Me
 
 - GitHub: https://github.com/Asvinitha-Thevaraja
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/asvinitha-thevaraja/
 
 ---
 
